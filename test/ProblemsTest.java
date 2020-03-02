@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 class ProblemsTest {
 
-  int expected = 3;
+  int expected = 2;
 
-  String input = " z z";
+  String input = "a z z";
 
   Problems problems = new Problems();
 
